@@ -13,8 +13,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "We have locations in State College, Atlanta, and Denver. Come check us out and enjoy some local gaming!",
-            "text_style": "body"
+            "text": "<strong>We have locations in State College, Atlanta, and Denver. Come check us out and enjoy some local gaming!<\/strong>",
+            "text_style": "subtitle"
           }
         },
         "button": {
