@@ -14,9 +14,16 @@
         },
         "footer-1": {
           "type": "link_list",
+          "disabled": true,
           "settings": {
             "heading": "Info",
             "menu": "footer"
+          }
+        },
+        "c5c642d6-2404-421f-a099-42f102a15a39": {
+          "type": "brand_information",
+          "settings": {
+            "show_social": true
           }
         },
         "footer-2": {
@@ -30,12 +37,14 @@
       "block_order": [
         "footer-0",
         "footer-1",
+        "c5c642d6-2404-421f-a099-42f102a15a39",
         "footer-2"
       ],
       "settings": {
         "color_scheme": "background-1",
         "newsletter_enable": true,
         "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": true,
         "show_social": true,
         "enable_country_selector": false,
         "enable_language_selector": false,
