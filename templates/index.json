@@ -6,14 +6,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Master Goblin Games",
             "heading_size": "h0"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "We have locations in State College, Atlanta, and Denver. Come check us out and enjoy some local gaming!",
             "text_style": "body"
           }
         },
@@ -54,14 +54,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "We offer a curated selection of board games, CCGs, and related accessories!",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Below is some featured products that our crew recommend for any board gamer. Check out our full catalog by clicking \"Shop All\" or selecting catalog at the top!<\/p>"
           }
         }
       },
