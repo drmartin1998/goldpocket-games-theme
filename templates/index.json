@@ -109,17 +109,17 @@
     "collage": {
       "type": "collage",
       "blocks": {
+        "product": {
+          "type": "product",
+          "settings": {
+            "product": "the-castle-of-burgundy-20th-anniversary-edition",
+            "second_image": false
+          }
+        },
         "collection-0": {
           "type": "collection",
           "settings": {
             "collection": "mtg-new-arrivals"
-          }
-        },
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false
           }
         },
         "collection-1": {
@@ -130,12 +130,12 @@
         }
       },
       "block_order": [
-        "collection-0",
         "product",
+        "collection-0",
         "collection-1"
       ],
       "settings": {
-        "heading": "Multimedia collage",
+        "heading": "",
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "collage",
